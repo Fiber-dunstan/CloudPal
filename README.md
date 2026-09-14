@@ -2,7 +2,7 @@
 
 **CloudPal** is an AI-powered AWS learning assistant that answers questions about AWS services using Retrieval-Augmented Generation (RAG) — grounding every answer in a curated knowledge base instead of guessing.
 
-🔗 **Live demo:** [Add your live Streamlit URL here]
+🔗 **Live demo:** https://cloudpal.streamlit.app/
 💻 **Repository:** [github.com/Fiber-dunstan/CloudPal](https://github.com/Fiber-dunstan/CloudPal)
 
 ---
